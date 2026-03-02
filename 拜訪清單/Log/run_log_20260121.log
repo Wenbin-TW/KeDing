@@ -1,0 +1,38 @@
+[2026-01-21 08:37:24] === 本次執行開始 ===
+[2026-01-21 08:37:24] [START] 分類=台灣拜訪 | 檔案=C:\Users\TW0002.TPTWKD\Desktop\Wenbin\外勤业务\拜訪清單_更新\0.主管前50大客戶_wenbin.py | 第 1 次
+[2026-01-21 08:43:49] [SUCCESS] 分類=台灣拜訪 | 檔案=C:\Users\TW0002.TPTWKD\Desktop\Wenbin\外勤业务\拜訪清單_更新\0.主管前50大客戶_wenbin.py | 耗時=385.66s
+[2026-01-21 08:43:54] [START] 分類=台灣拜訪 | 檔案=C:\Users\TW0002.TPTWKD\Desktop\Wenbin\外勤业务\拜訪清單_更新\1.1客訴後未交易客戶_wenbin.py | 第 1 次
+[2026-01-21 08:48:41] [SUCCESS] 分類=台灣拜訪 | 檔案=C:\Users\TW0002.TPTWKD\Desktop\Wenbin\外勤业务\拜訪清單_更新\1.1客訴後未交易客戶_wenbin.py | 耗時=286.59s
+[2026-01-21 08:48:46] [START] 分類=台灣拜訪 | 檔案=C:\Users\TW0002.TPTWKD\Desktop\Wenbin\外勤业务\拜訪清單_更新\5.C類冷卻期客戶_wenbin.py | 第 1 次
+[2026-01-21 08:52:52] [SUCCESS] 分類=台灣拜訪 | 檔案=C:\Users\TW0002.TPTWKD\Desktop\Wenbin\外勤业务\拜訪清單_更新\5.C類冷卻期客戶_wenbin.py | 耗時=246.53s
+[2026-01-21 08:52:57] [START] 分類=台灣拜訪 | 檔案=C:\Users\TW0002.TPTWKD\Desktop\Wenbin\外勤业务\拜訪清單_更新\6.50萬客戶三個月未拜訪_wenbin.py | 第 1 次
+[2026-01-21 08:58:08] [SUCCESS] 分類=台灣拜訪 | 檔案=C:\Users\TW0002.TPTWKD\Desktop\Wenbin\外勤业务\拜訪清單_更新\6.50萬客戶三個月未拜訪_wenbin.py | 耗時=310.08s
+[2026-01-21 08:58:13] [START] 分類=台灣拜訪 | 檔案=C:\Users\TW0002.TPTWKD\Desktop\Wenbin\外勤业务\拜訪清單_更新\8.歷史銷貨排行_wenbin.py | 第 1 次
+[2026-01-21 09:04:20] [SUCCESS] 分類=台灣拜訪 | 檔案=C:\Users\TW0002.TPTWKD\Desktop\Wenbin\外勤业务\拜訪清單_更新\8.歷史銷貨排行_wenbin.py | 耗時=367.73s
+[2026-01-21 09:04:25] [START] 分類=台灣拜訪 | 檔案=C:\Users\TW0002.TPTWKD\Desktop\Wenbin\外勤业务\拜訪清單_更新\9.高資本額公司_wenbin.py | 第 1 次
+[2026-01-21 09:08:58] [SUCCESS] 分類=台灣拜訪 | 檔案=C:\Users\TW0002.TPTWKD\Desktop\Wenbin\外勤业务\拜訪清單_更新\9.高資本額公司_wenbin.py | 耗時=272.41s
+[2026-01-21 09:09:03] [START] 分類=台灣拜訪 | 檔案=C:\Users\TW0002.TPTWKD\Desktop\Wenbin\外勤业务\拜訪清單_更新\10.近兩個月未拜訪_wenbin.py | 第 1 次
+[2026-01-21 09:13:58] [SUCCESS] 分類=台灣拜訪 | 檔案=C:\Users\TW0002.TPTWKD\Desktop\Wenbin\外勤业务\拜訪清單_更新\10.近兩個月未拜訪_wenbin.py | 耗時=295.59s
+[2026-01-21 09:14:03] [START] 分類=台灣拜訪 | 檔案=C:\Users\TW0002.TPTWKD\Desktop\Wenbin\外勤业务\拜訪清單_更新\11.備份與去重.py | 第 1 次
+[2026-01-21 09:14:10] [SUCCESS] 分類=台灣拜訪 | 檔案=C:\Users\TW0002.TPTWKD\Desktop\Wenbin\外勤业务\拜訪清單_更新\11.備份與去重.py | 耗時=6.83s
+[2026-01-21 09:14:15] [START] 分類=台灣專案 | 檔案=C:\Users\TW0002.TPTWKD\Desktop\Wenbin\外勤业务\拜訪清單_更新\專案_久未聯繫F類客戶.py | 第 1 次
+[2026-01-21 09:19:03] [FAIL] 分類=台灣專案 | 檔案=C:\Users\TW0002.TPTWKD\Desktop\Wenbin\外勤业务\拜訪清單_更新\專案_久未聯繫F類客戶.py | 第 1 次失敗 | 耗時=288.38s | 錯誤=Command '['c:\\Users\\TW0002.TPTWKD\\AppData\\Local\\anaconda3\\python.exe', 'C:\\Users\\TW0002.TPTWKD\\Desktop\\Wenbin\\外勤业务\\拜訪清單_更新\\專案_久未聯繫F類客戶.py']' returned non-zero exit status 1.
+[2026-01-21 09:19:08] [START] 分類=台灣專案 | 檔案=C:\Users\TW0002.TPTWKD\Desktop\Wenbin\外勤业务\拜訪清單_更新\專案_久未聯繫F類客戶.py | 第 2 次
+[2026-01-21 09:24:10] [FAIL] 分類=台灣專案 | 檔案=C:\Users\TW0002.TPTWKD\Desktop\Wenbin\外勤业务\拜訪清單_更新\專案_久未聯繫F類客戶.py | 第 2 次失敗 | 耗時=301.57s | 錯誤=Command '['c:\\Users\\TW0002.TPTWKD\\AppData\\Local\\anaconda3\\python.exe', 'C:\\Users\\TW0002.TPTWKD\\Desktop\\Wenbin\\外勤业务\\拜訪清單_更新\\專案_久未聯繫F類客戶.py']' returned non-zero exit status 1.
+[2026-01-21 09:24:15] [START] 分類=台灣專案 | 檔案=C:\Users\TW0002.TPTWKD\Desktop\Wenbin\外勤业务\拜訪清單_更新\專案_久未聯繫F類客戶.py | 第 3 次
+[2026-01-21 09:29:23] [FAIL] 分類=台灣專案 | 檔案=C:\Users\TW0002.TPTWKD\Desktop\Wenbin\外勤业务\拜訪清單_更新\專案_久未聯繫F類客戶.py | 第 3 次失敗 | 耗時=308.09s | 錯誤=Command '['c:\\Users\\TW0002.TPTWKD\\AppData\\Local\\anaconda3\\python.exe', 'C:\\Users\\TW0002.TPTWKD\\Desktop\\Wenbin\\外勤业务\\拜訪清單_更新\\專案_久未聯繫F類客戶.py']' returned non-zero exit status 1.
+[2026-01-21 09:29:23] [GIVE UP] 分類=台灣專案 | 檔案=C:\Users\TW0002.TPTWKD\Desktop\Wenbin\外勤业务\拜訪清單_更新\專案_久未聯繫F類客戶.py | 連續失敗 3 次
+[2026-01-21 09:29:33] [START] 分類=台灣專案 | 檔案=C:\Users\TW0002.TPTWKD\Desktop\Wenbin\外勤业务\拜訪清單_更新\專案_久未聯繫G類客戶.py | 第 1 次
+[2026-01-21 09:33:35] [FAIL] 分類=台灣專案 | 檔案=C:\Users\TW0002.TPTWKD\Desktop\Wenbin\外勤业务\拜訪清單_更新\專案_久未聯繫G類客戶.py | 第 1 次失敗 | 耗時=242.04s | 錯誤=Command '['c:\\Users\\TW0002.TPTWKD\\AppData\\Local\\anaconda3\\python.exe', 'C:\\Users\\TW0002.TPTWKD\\Desktop\\Wenbin\\外勤业务\\拜訪清單_更新\\專案_久未聯繫G類客戶.py']' returned non-zero exit status 1.
+[2026-01-21 09:33:40] [START] 分類=台灣專案 | 檔案=C:\Users\TW0002.TPTWKD\Desktop\Wenbin\外勤业务\拜訪清單_更新\專案_久未聯繫G類客戶.py | 第 2 次
+[2026-01-21 09:37:23] [FAIL] 分類=台灣專案 | 檔案=C:\Users\TW0002.TPTWKD\Desktop\Wenbin\外勤业务\拜訪清單_更新\專案_久未聯繫G類客戶.py | 第 2 次失敗 | 耗時=222.94s | 錯誤=Command '['c:\\Users\\TW0002.TPTWKD\\AppData\\Local\\anaconda3\\python.exe', 'C:\\Users\\TW0002.TPTWKD\\Desktop\\Wenbin\\外勤业务\\拜訪清單_更新\\專案_久未聯繫G類客戶.py']' returned non-zero exit status 1.
+[2026-01-21 09:37:28] [START] 分類=台灣專案 | 檔案=C:\Users\TW0002.TPTWKD\Desktop\Wenbin\外勤业务\拜訪清單_更新\專案_久未聯繫G類客戶.py | 第 3 次
+[2026-01-21 09:41:10] [FAIL] 分類=台灣專案 | 檔案=C:\Users\TW0002.TPTWKD\Desktop\Wenbin\外勤业务\拜訪清單_更新\專案_久未聯繫G類客戶.py | 第 3 次失敗 | 耗時=221.83s | 錯誤=Command '['c:\\Users\\TW0002.TPTWKD\\AppData\\Local\\anaconda3\\python.exe', 'C:\\Users\\TW0002.TPTWKD\\Desktop\\Wenbin\\外勤业务\\拜訪清單_更新\\專案_久未聯繫G類客戶.py']' returned non-zero exit status 1.
+[2026-01-21 09:41:10] [GIVE UP] 分類=台灣專案 | 檔案=C:\Users\TW0002.TPTWKD\Desktop\Wenbin\外勤业务\拜訪清單_更新\專案_久未聯繫G類客戶.py | 連續失敗 3 次
+[2026-01-21 09:41:20] [START] 分類=台灣專案 | 檔案=C:\Users\TW0002.TPTWKD\Desktop\Wenbin\外勤业务\拜訪清單_更新\專案_久未聯繫K類客戶.py | 第 1 次
+[2026-01-21 09:45:38] [SUCCESS] 分類=台灣專案 | 檔案=C:\Users\TW0002.TPTWKD\Desktop\Wenbin\外勤业务\拜訪清單_更新\專案_久未聯繫K類客戶.py | 耗時=257.98s
+[2026-01-21 09:45:43] [START] 分類=台灣專案 | 檔案=C:\Users\TW0002.TPTWKD\Desktop\Wenbin\外勤业务\拜訪清單_更新\專案_久未聯繫SE類客戶.py | 第 1 次
+[2026-01-21 09:49:38] [SUCCESS] 分類=台灣專案 | 檔案=C:\Users\TW0002.TPTWKD\Desktop\Wenbin\外勤业务\拜訪清單_更新\專案_久未聯繫SE類客戶.py | 耗時=234.75s
+[2026-01-21 09:49:43] [START] 分類=台灣專案 | 檔案=C:\Users\TW0002.TPTWKD\Desktop\Wenbin\外勤业务\拜訪清單_更新\專案_久未聯繫SF類客戶.py | 第 1 次
+[2026-01-21 09:53:25] [SUCCESS] 分類=台灣專案 | 檔案=C:\Users\TW0002.TPTWKD\Desktop\Wenbin\外勤业务\拜訪清單_更新\專案_久未聯繫SF類客戶.py | 耗時=222.02s
+[2026-01-21 09:53:30] === 本次執行結束 ===
