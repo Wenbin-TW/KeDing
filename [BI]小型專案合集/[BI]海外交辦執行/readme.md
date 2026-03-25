@@ -88,3 +88,7 @@ by_type['task_type_alias'] = by_type['task_type'].map(task_type_alias_map).filln
 1. **長表轉置 (Melt)**：FineBI 的切片器最喜歡這種格式。雖然資料庫行數會變多，但前端寫 DAX 公式時會省事很多。
 2. **多執行緒抓取**：雖然這份腳本計算量大，但我前面用 `ThreadPoolExecutor` 抓 CRM 資料是為了省下等待 API 回傳的時間。要是單線程跑，早上 8 點主管開會前絕對算不完。
 
+### BI 成果展示
+![圖片說明](BI/展示館參訪數據.png)
+
+![圖片說明](BI/展示館參訪數據.png)
