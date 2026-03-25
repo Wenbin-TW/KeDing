@@ -89,6 +89,6 @@ by_type['task_type_alias'] = by_type['task_type'].map(task_type_alias_map).filln
 2. **多執行緒抓取**：雖然這份腳本計算量大，但我前面用 `ThreadPoolExecutor` 抓 CRM 資料是為了省下等待 API 回傳的時間。要是單線程跑，早上 8 點主管開會前絕對算不完。
 
 ### BI 成果展示
-![圖片說明](BI/展示館參訪數據.png)
+![圖片說明](BI/海外交辦執行情況_日.png)
 
-![圖片說明](BI/展示館參訪數據.png)
+![圖片說明](BI/海外交辦執行情況_小時.png)
